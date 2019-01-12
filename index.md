@@ -22,7 +22,13 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
+`
+#include <stdio.h>
 
+int main() {
+  printf("Hello world\n");
+  return 0;
+}
 [Link](url) and ![Image](src)
 ```
 
